@@ -7,7 +7,8 @@ const App = () => {
     <div>
         <Header></Header>
        <Shop></Shop>
-       
+      
+      
     </div>
   );
 };
